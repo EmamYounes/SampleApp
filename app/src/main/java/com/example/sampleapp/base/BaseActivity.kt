@@ -9,7 +9,7 @@ import androidx.navigation.navOptions
 import com.example.sampleapp.R
 import kotlinx.android.synthetic.main.activity_base.*
 
-class BaseActivity : AppCompatActivity() {
+open class BaseActivity : AppCompatActivity() {
 
     val options = navOptions {
         anim {

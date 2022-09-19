@@ -55,4 +55,8 @@ dependencies {
     //handle crash
     implementation 'cat.ereza:customactivityoncrash:2.3.0'
 
+    //lottie
+    implementation 'com.airbnb.android:lottie:3.4.1'
+
+
 }
